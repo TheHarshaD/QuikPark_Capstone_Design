@@ -1,0 +1,523 @@
+{
+    "cameras": [
+        {
+            "camera_name": "1",
+            "image_path": "/var/www/html/myproject/myprojectenv/pkl_images/test1_1.png",
+            "spot_tags": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ],
+            "last_update": 0
+        },
+        {
+            "camera_name": "2",
+            "image_path": "/var/www/html/myproject/myprojectenv/pkl_images/test1_2.png",
+            "spot_tags": [
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "last_update": 0
+        }
+    ],
+    "metadata": [
+        {
+            "tag": "1",
+            "isOccupied": 0,
+            "bound_yx": [
+                221,
+                245,
+                53,
+                51
+            ],
+            "aspect_ratio": 0.9622641509433962,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "2",
+            "isOccupied": 0,
+            "bound_yx": [
+                281,
+                245.99999999999997,
+                55,
+                57.00000000000003
+            ],
+            "aspect_ratio": 1.0363636363636368,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "3",
+            "isOccupied": 1,
+            "bound_yx": [
+                352,
+                252,
+                60,
+                53
+            ],
+            "aspect_ratio": 0.8833333333333333,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "4",
+            "isOccupied": 0,
+            "bound_yx": [
+                420,
+                252,
+                56,
+                50
+            ],
+            "aspect_ratio": 0.8928571428571429,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "5",
+            "isOccupied": 0,
+            "bound_yx": [
+                485.00000000000006,
+                241,
+                63.99999999999994,
+                55
+            ],
+            "aspect_ratio": 0.8593750000000008,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "6",
+            "isOccupied": 0,
+            "bound_yx": [
+                558,
+                245,
+                57,
+                50
+            ],
+            "aspect_ratio": 0.8771929824561403,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "7",
+            "isOccupied": 0,
+            "bound_yx": [
+                629,
+                242.00000000000003,
+                56,
+                53.99999999999997
+            ],
+            "aspect_ratio": 0.9642857142857137,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "8",
+            "isOccupied": 0,
+            "bound_yx": [
+                695,
+                244,
+                58,
+                54
+            ],
+            "aspect_ratio": 0.9310344827586207,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "9",
+            "isOccupied": 1,
+            "bound_yx": [
+                760.9999999999999,
+                245,
+                69.00000000000011,
+                53
+            ],
+            "aspect_ratio": 0.7681159420289843,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "10",
+            "isOccupied": 1,
+            "bound_yx": [
+                837,
+                245.99999999999997,
+                63,
+                53.00000000000003
+            ],
+            "aspect_ratio": 0.8412698412698417,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "11",
+            "isOccupied": 1,
+            "bound_yx": [
+                905,
+                245,
+                60.999999999999886,
+                54
+            ],
+            "aspect_ratio": 0.8852459016393459,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "12",
+            "isOccupied": 0,
+            "bound_yx": [
+                973.0000000000001,
+                249,
+                56.999999999999886,
+                53
+            ],
+            "aspect_ratio": 0.9298245614035107,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "13",
+            "isOccupied": 1,
+            "bound_yx": [
+                1041,
+                239,
+                72,
+                65
+            ],
+            "aspect_ratio": 0.9027777777777778,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "14",
+            "isOccupied": 1,
+            "bound_yx": [
+                132,
+                331,
+                93,
+                84
+            ],
+            "aspect_ratio": 0.9032258064516129,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "15",
+            "isOccupied": 1,
+            "bound_yx": [
+                235.99999999999997,
+                332,
+                97.00000000000003,
+                87
+            ],
+            "aspect_ratio": 0.8969072164948451,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "16",
+            "isOccupied": 1,
+            "bound_yx": [
+                344.00000000000006,
+                337,
+                79.99999999999994,
+                85
+            ],
+            "aspect_ratio": 1.0625000000000007,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "17",
+            "isOccupied": 1,
+            "bound_yx": [
+                432,
+                331,
+                96,
+                94
+            ],
+            "aspect_ratio": 0.9791666666666666,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "18",
+            "isOccupied": 0,
+            "bound_yx": [
+                547,
+                332,
+                89,
+                94
+            ],
+            "aspect_ratio": 1.0561797752808988,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "19",
+            "isOccupied": 0,
+            "bound_yx": [
+                648,
+                345,
+                102.99999999999989,
+                87
+            ],
+            "aspect_ratio": 0.8446601941747582,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "20",
+            "isOccupied": 0,
+            "bound_yx": [
+                763,
+                351,
+                98,
+                83
+            ],
+            "aspect_ratio": 0.8469387755102041,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "21",
+            "isOccupied": 1,
+            "bound_yx": [
+                869.0000000000001,
+                341,
+                90.99999999999989,
+                86
+            ],
+            "aspect_ratio": 0.9450549450549462,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "22",
+            "isOccupied": 0,
+            "bound_yx": [
+                968,
+                356,
+                95,
+                75
+            ],
+            "aspect_ratio": 0.7894736842105263,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "23",
+            "isOccupied": 0,
+            "bound_yx": [
+                1057,
+                349,
+                122,
+                84
+            ],
+            "aspect_ratio": 0.6885245901639344,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "24",
+            "isOccupied": 1,
+            "bound_yx": [
+                101,
+                485,
+                148,
+                141
+            ],
+            "aspect_ratio": 0.9527027027027027,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "25",
+            "isOccupied": 0,
+            "bound_yx": [
+                271,
+                477.99999999999994,
+                138,
+                150.00000000000006
+            ],
+            "aspect_ratio": 1.0869565217391308,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "26",
+            "isOccupied": 0,
+            "bound_yx": [
+                426,
+                480.00000000000006,
+                148,
+                172.99999999999994
+            ],
+            "aspect_ratio": 1.1689189189189186,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "27",
+            "isOccupied": 0,
+            "bound_yx": [
+                586,
+                482,
+                156,
+                158
+            ],
+            "aspect_ratio": 1.0128205128205128,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "28",
+            "isOccupied": 1,
+            "bound_yx": [
+                760.9999999999999,
+                484,
+                158,
+                158
+            ],
+            "aspect_ratio": 1,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "tag": "33",
+            "isOccupied": 0,
+            "bound_yx": [
+                930,
+                500,
+                162,
+                167
+            ],
+            "aspect_ratio": 1.0308641975308641,
+            "rotation_angle": 0,
+            "color": [
+                0,
+                1,
+                0
+            ]
+        }
+    ]
+}

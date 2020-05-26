@@ -1,0 +1,360 @@
+{
+    "cameras": [
+        {
+            "camera_name": "1",
+            "image_path": "/var/www/html/myproject/myprojectenv/pkl_images/lot49_1.png",
+            "last_update": 0,
+            "spot_tags": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "camera_name": "2",
+            "image_path": "/var/www/html/myproject/myprojectenv/pkl_images/lot49_2.png",
+            "last_update": 0,
+            "spot_tags": [
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "camera_name": "3",
+            "image_path": "/var/www/html/myproject/myprojectenv/pkl_images/lot49_3.png",
+            "last_update": 0,
+            "spot_tags": [
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24
+            ]
+        },
+        {
+            "camera_name": "4",
+            "image_path": "/var/www/html/myproject/myprojectenv/pkl_images/lot49_4.png",
+            "last_update": 0,
+            "spot_tags": [
+                25,
+                26,
+                27,
+                28
+            ]
+        },
+        {
+            "camera_name": "5",
+            "image_path": "/var/www/html/myproject/myprojectenv/pkl_images/lot49_5.png",
+            "last_update": 0,
+            "spot_tags": [
+                15,
+                16
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "tag": "0",
+            "isOccupied": 0,
+            "bound_yx": [
+                715,
+                378,
+                72,
+                52
+            ]
+        },
+        {
+            "tag": "1",
+            "isOccupied": 1,
+            "bound_yx": [
+                623,
+                372,
+                74,
+                60
+            ]
+        },
+        {
+            "tag": "2",
+            "isOccupied": 0,
+            "bound_yx": [
+                515,
+                374,
+                82,
+                56
+            ]
+        },
+        {
+            "tag": "3",
+            "isOccupied": 0,
+            "bound_yx": [
+                438,
+                377,
+                85,
+                54
+            ]
+        },
+        {
+            "tag": "4",
+            "isOccupied": 0,
+            "bound_yx": [
+                367,
+                378,
+                96,
+                54
+            ]
+        },
+        {
+            "tag": "5",
+            "isOccupied": 0,
+            "bound_yx": [
+                279,
+                380,
+                95,
+                57
+            ]
+        },
+        {
+            "tag": "6",
+            "isOccupied": 0,
+            "bound_yx": [
+                191,
+                384,
+                97,
+                56
+            ]
+        },
+        {
+            "tag": "7",
+            "isOccupied": 0,
+            "bound_yx": [
+                101,
+                383,
+                102,
+                59
+            ]
+        },
+        {
+            "tag": "8",
+            "isOccupied": 0,
+            "bound_yx": [
+                648,
+                419,
+                144,
+                81
+            ]
+        },
+        {
+            "tag": "9",
+            "isOccupied": 0,
+            "bound_yx": [
+                556,
+                417,
+                132,
+                80
+            ]
+        },
+        {
+            "tag": "10",
+            "isOccupied": 0,
+            "bound_yx": [
+                467,
+                416,
+                118,
+                81
+            ]
+        },
+        {
+            "tag": "11",
+            "isOccupied": 0,
+            "bound_yx": [
+                380,
+                416,
+                108,
+                80
+            ]
+        },
+        {
+            "tag": "12",
+            "isOccupied": 0,
+            "bound_yx": [
+                290,
+                413,
+                101,
+                81
+            ]
+        },
+        {
+            "tag": "13",
+            "isOccupied": 0,
+            "bound_yx": [
+                213,
+                410,
+                68,
+                79
+            ]
+        },
+        {
+            "tag": "14",
+            "isOccupied": 1,
+            "bound_yx": [
+                84,
+                388,
+                98,
+                96
+            ]
+        },
+        {
+            "tag": "15",
+            "isOccupied": 0,
+            "bound_yx": [
+                417,
+                388,
+                134,
+                119
+            ]
+        },
+        {
+            "tag": "16",
+            "isOccupied": 0,
+            "bound_yx": [
+                303,
+                391,
+                139,
+                116
+            ]
+        },
+        {
+            "tag": "17",
+            "isOccupied": 0,
+            "bound_yx": [
+                673,
+                415,
+                69,
+                62
+            ]
+        },
+        {
+            "tag": "18",
+            "isOccupied": 1,
+            "bound_yx": [
+                560,
+                400,
+                117,
+                85
+            ]
+        },
+        {
+            "tag": "19",
+            "isOccupied": 0,
+            "bound_yx": [
+                474,
+                421,
+                94,
+                60
+            ]
+        },
+        {
+            "tag": "20",
+            "isOccupied": 0,
+            "bound_yx": [
+                393,
+                416,
+                96,
+                69
+            ]
+        },
+        {
+            "tag": "21",
+            "isOccupied": 0,
+            "bound_yx": [
+                304,
+                414,
+                92,
+                69
+            ]
+        },
+        {
+            "tag": "22",
+            "isOccupied": 0,
+            "bound_yx": [
+                219,
+                413,
+                81,
+                65
+            ]
+        },
+        {
+            "tag": "23",
+            "isOccupied": 0,
+            "bound_yx": [
+                146,
+                410,
+                73,
+                64
+            ]
+        },
+        {
+            "tag": "24",
+            "isOccupied": 0,
+            "bound_yx": [
+                41,
+                398,
+                86,
+                73
+            ]
+        },
+        {
+            "tag": "25",
+            "isOccupied": 0,
+            "bound_yx": [
+                551,
+                468,
+                108,
+                69
+            ]
+        },
+        {
+            "tag": "26",
+            "isOccupied": 1,
+            "bound_yx": [
+                436,
+                469,
+                115,
+                65
+            ]
+        },
+        {
+            "tag": "27",
+            "isOccupied": 0,
+            "bound_yx": [
+                328,
+                468,
+                116,
+                65
+            ]
+        },
+        {
+            "tag": "28",
+            "isOccupied": 0,
+            "bound_yx": [
+                216,
+                470,
+                116,
+                59
+            ]
+        }
+    ]
+}
